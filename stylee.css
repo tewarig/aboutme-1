@@ -36,7 +36,7 @@ p {
     border-radius: 10px;
 }
 #header {
-    background-image: url("cupp.jpg");
+    background-image: url("https://pixabay.com/photos/cup-of-coffee-laptop-office-macbook-1280537/");
     background-size: cover;
 }
 #header img {
